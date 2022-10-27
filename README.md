@@ -1,17 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-</div>
-
-<div id="badges" align="center>
-  <a href="https://www.linkedin.com/in/hazbuk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/HarrisBoyle6" align="center">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/hazbuk/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/HarrisBoyle6">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
 
 <img src="https://komarev.com/ghpvc/?username=HarrisBoyle&style=flat-square&color=blue" alt=""/>
+
+</div>
+
 
 
 ---
@@ -26,7 +27,6 @@ I am a Data Scientist from the United Kingdom
 
 - In my free time, I play Chess (poorly) and enjoy exercising.
 
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hazbuk/)
 
 
 ---
