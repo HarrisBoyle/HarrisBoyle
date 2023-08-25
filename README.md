@@ -23,7 +23,7 @@ I am a Data Scientist from the United Kingdom
 
 - I’m currently working as a Data Scientist and contributing to all stages of the lifecycle for building intelligent forceasting models within Financial Services.
 
-- Studying for the final year of my Data Science MSc.
+- MSc in Data Science and BSc in Mathematics
 
 - In my free time, I play Chess (poorly) and enjoy exercising.
 
